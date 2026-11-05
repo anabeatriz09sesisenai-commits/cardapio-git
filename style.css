@@ -19,8 +19,31 @@ header {
 h1 {
     color: #8b4513;
     margin-bottom: 15px;
+    font-size: 32px;
 }
 
 p {
     font-size: 16px;
+}
+
+main {
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 25px;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #8b4513;
+    margin-bottom: 20px;
+}
+
+ul {
+    padding-left: 25px;
+}
+
+li {
+    padding: 10px;
+    font-size: 18px;
 }
